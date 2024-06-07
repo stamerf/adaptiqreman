@@ -1,5 +1,5 @@
 # Intelligent remanufacturing based on optimization of quality classes under uncertainty
-
+[![DOI](https://zenodo.org/badge/811625452.svg)](https://zenodo.org/doi/10.5281/zenodo.11513761)
 ## Overview
 
 This repository contains the implementation of a manufacturing process planning algorithm. The algorithm is designed to help companies optimize their remanufacturing processes by generating cost-efficient process plans tailored to specific customer demands and available core inventory levels. As of now, a use case is hard coded and the code can be executed directly. The key functionalities of the code include:
