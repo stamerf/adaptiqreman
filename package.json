@@ -1,0 +1,27 @@
+{
+  "name": "qk-generator",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/fstamer/qk-generator.git"
+  },
+  "author": "Florian Stamer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/fstamer/qk-generator/issues"
+  },
+  "homepage": "https://gitlab.com/fstamer/qk-generator#readme",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "javascript-lp-solver": "^0.4.24",
+    "perf_hooks": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.0"
+  }
+}
